@@ -7,7 +7,9 @@
 
 - 👨‍💻 Mi portafolio [miguelo16.github.io](miguelo16.github.io)
 
-- Mi rincón de estudio **https://campaign-cindy-witness-sweet.trycloudflare.com/** 
+- 📚 Mi rincón de estudio **https://campaign-cindy-witness-sweet.trycloudflare.com/**
+
+- 🎖️ Certifcaciones: https://www.credly.com/users/miguel-roman.9e381e20/badges#credly
 
 - 📫 How to reach me **miguelroman16@outlook.com**
 
