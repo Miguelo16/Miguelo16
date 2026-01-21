@@ -9,7 +9,7 @@
 
 - 📚 Mi rincón de estudio **https://campaign-cindy-witness-sweet.trycloudflare.com/**
 
-- 🎖️ Certifcaciones: https://www.credly.com/users/miguel-roman.9e381e20/badges#credly
+- 🎖️ Mis certificaciones: https://www.credly.com/users/miguel-roman.9e381e20/badges#credly
 
 - 📫 How to reach me **miguelroman16@outlook.com**
 
