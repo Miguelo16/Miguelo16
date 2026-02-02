@@ -7,7 +7,7 @@
 
 - 👨‍💻 Mi portafolio [miguelo16.github.io](miguelo16.github.io)
 
-- 📚 Mi rincón de estudio **https://campaign-cindy-witness-sweet.trycloudflare.com/**
+- 📚 Mi rincón de estudio **[https://campaign-cindy-witness-sweet.trycloudflare.com/](https://yield-var-loose-tubes.trycloudflare.com/)**
 
 - 🎖️ Mis certificaciones: https://www.credly.com/users/miguel-roman.9e381e20/badges#credly
 
