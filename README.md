@@ -7,7 +7,7 @@
 
 - 👨‍💻 Mi portafolio [miguelo16.github.io](miguelo16.github.io)
 
-- 📚 Mi rincón de estudio [https://easier-garbage-activities-literacy.trycloudflare.com](https://web-angel-intention-license.trycloudflare.com/)
+- 📚 Mi rincón de estudio [ROMATIC]([http://versus-creek-analyzed-vary.trycloudflare.com/](https://versus-creek-analyzed-vary.trycloudflare.com/))
 
 - 🎖️ Mis certificaciones: https://www.credly.com/users/miguel-roman.9e381e20/badges#credly
 
