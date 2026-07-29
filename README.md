@@ -7,7 +7,7 @@
 
 - 👨‍💻 Mi portafolio [miguelo16.github.io](miguelo16.github.io)
 
-- 📚 Mi rincón de estudio [https://versus-creek-analyzed-vary.trycloudflare.com/](https://downloading-dried-reads-increasingly.trycloudflare.com/)
+- 📚 Mi rincón de estudio [https://downloading-dried-reads-increasingly.trycloudflare.com/](https://downloading-dried-reads-increasingly.trycloudflare.com/)
 
 - 🎖️ Mis certificaciones: https://www.credly.com/users/miguel-roman.9e381e20/badges#credly
 
