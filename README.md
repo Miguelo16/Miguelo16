@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/miguelarh16" target="blank"><img src="https://img.shields.io/twitter/follow/miguelarh16?logo=twitter&style=for-the-badge" alt="miguelarh16" /></a> </p>
 
-- 🔭 **Administrador de sistemas informaticos y redes**
-
 - 👨‍💻 Mi portafolio [miguelo16.github.io](miguelo16.github.io)
 
 - 📚 Mi rincón de estudio [https://downloading-dried-reads-increasingly.trycloudflare.com/](https://downloading-dried-reads-increasingly.trycloudflare.com/)
